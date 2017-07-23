@@ -17,7 +17,7 @@ public class addQuestion extends JPanel implements ActionListener {
     JButton search, save;
     JTextField question, keyword;
     private int b;
-    private int m = 100;
+    private int m = 100; //hello
     private int i;
     private int n;
     private Userz u;
