@@ -12,6 +12,7 @@ import javax.swing.JTextField;
 public class addQuestion extends JPanel implements ActionListener {
 
     Dimension d;
+	int dsd = 0 ; // somthing
     JFrame j;
     JButton search, save;
     JTextField question, keyword;
